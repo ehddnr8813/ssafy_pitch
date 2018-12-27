@@ -1,8 +1,12 @@
 ---
-title: 자기 주도 학습
+title: [1주차 Reflection] Design Thinking 방법론
 ---
 
-# 주제 1
+# Design Thinking 방법론
+|단계|정의   |활용 Tool  |
+|---|--------|----------|
+|---|--------|----------|
+
 
 연습 1
 
