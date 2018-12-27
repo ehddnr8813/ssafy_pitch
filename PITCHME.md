@@ -1,6 +1,6 @@
 ---
 # INSSAFY
----
+---?image=assets/images/KJW.png&position=25% 50%&size=28% 50%
 # 김재웅
 #### 별     명 : 웅이
 #### 성     격 : 사려깊음
