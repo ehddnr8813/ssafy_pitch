@@ -1,7 +1,9 @@
 ---
-title: \[2주차 Reflection\] 나만의 챗봇 - 명세서 작성
+title: \[2주차 Reflection\] 나만의 챗봇 - 명세서 작성 
 ---
 
+# Potato
+---
 # Ⅰ. 스펙(Specification)
 ---
 ##### 구현된 어플리케이션의 주요 기능 작성
