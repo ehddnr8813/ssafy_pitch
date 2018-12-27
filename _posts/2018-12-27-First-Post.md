@@ -14,24 +14,24 @@ title: \[1주차 Reflection\] Design Thinking 방법론
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
