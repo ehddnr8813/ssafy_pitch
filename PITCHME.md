@@ -1,4 +1,4 @@
----
+---?image=Images/hi.jpg&position=15% 50%&size=28% 50%
 # INSSAFY
 ---?image=Images/KJW.png&position=15% 50%&size=28% 50%
 # 김재웅
@@ -10,7 +10,7 @@
 #### 별     명 : 현저이
 #### 성     격 : 결단력이 있음
 #### 연말 계획 : 가족들과 해돋이
----?image=Images/LJE.png&position=15% 50%&size=28% 50%
+---?image=Images/LJE2.png&position=15% 50%&size=28% 50%
 # 이지은
 #### 별     명 : 아니유
 #### 성     격 : 똑부러짐
@@ -35,7 +35,8 @@
 #### 별     명 : 꾸기~♡
 #### 성     격 : 진행병
 #### 연말 계획 : 코딩...;
-
+---?image=Images/bye.jpg&position=15% 50%&size=28% 50%
+# GOOD BYE -
 
 
 
