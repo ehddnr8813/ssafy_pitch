@@ -1,5 +1,5 @@
 ---
-title: [2주차 Reflection] 나만의 챗봇 - 명세서 작성
+title: 2주차 Reflection 나만의 챗봇 - 명세서 작성
 ---
 
 # Ⅰ. 스펙(Specification) 
