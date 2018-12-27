@@ -1,2 +1,0 @@
-# INSSAFY
-about INSSAFY
